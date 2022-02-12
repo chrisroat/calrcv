@@ -1,0 +1,4 @@
+[core]
+    remote = calrcv
+['remote "calrcv"']
+    url = gdrive://1sENUu5hGqWSCIzui9bjy_xdF67P5Nuwt/dvcstore
