@@ -1,0 +1,13 @@
+name: rcv
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - h5py
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - pyarrow
+  - pytables
+  - seaborn
